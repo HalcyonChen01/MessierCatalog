@@ -1,0 +1,111 @@
+Messier,NGC,Common_Name,Object_Type,RA_Hours,RA_Decimal,Dec_Text,Dec_Decimal,Constellation,Magnitude,Best_Season
+M1,NGC 1952,Crab Nebula,Supernova remnant,05:34,83.5,+22:01,22.017,Taurus,8.4,winter  
+M2,NGC 7089,,Globular cluster,21:33,323.25,-00:49,-0.817,Aquarius,6.3,autumn
+M3,NGC 5272,,Globular cluster,13:42,205.5,+28:23,28.383,Canes Venatici,6.2,summer
+M4,NGC 6121,,Globular cluster,16:23,245.75,-26:32,-26.533,Scorpius,5.4,summer
+M5,NGC 5904,,Globular cluster,15:19,229.75,+02:05,2.083,Serpens,5.7,summer
+M6,NGC 6405,Butterfly Cluster,Open cluster,17:40,265.0,-32:13,-32.217,Scorpius,4.2,summer
+M7,NGC 6475,Ptolemy Cluster,Open cluster,17:54,268.5,-34:49,-34.817,Scorpius,3.3,summer
+M8,NGC 6523,Lagoon Nebula,Nebula,18:04,271.0,-24:23,-24.383,Sagittarius,5.8,summer
+M9,NGC 6333,,Globular cluster,17:19,259.75,-18:31,-18.517,Ophiuchus,7.9,summer
+M10,NGC 6254,,Globular cluster,16:57,254.25,-04:06,-4.1,Ophiuchus,6.4,summer
+M11,NGC 6705,Wild Duck Cluster,Open cluster,18:51,282.75,-06:16,-6.267,Scutum,5.8,summer
+M12,NGC 6218,,Globular cluster,16:47,251.75,-01:57,-1.95,Ophiuchus,6.1,summer
+M13,NGC 6205,Hercules Cluster,Globular cluster,16:42,250.5,+36:28,36.467,Hercules,5.8,summer
+M14,NGC 6402,,Globular cluster,17:38,264.5,-03:15,-3.25,Ophiuchus,7.6,summer
+M15,NGC 7078,,Globular cluster,21:30,322.5,+12:10,12.167,Pegasus,6.2,autumn
+M16,NGC 6611,Eagle Nebula,Cluster & nebula,18:19,274.75,-13:49,-13.817,Serpens,6.0,summer
+M17,NGC 6618,Omega Nebula,Nebula,18:21,275.25,-16:11,-16.183,Sagittarius,6.0,summer
+M18,NGC 6613,,Open cluster,18:20,275.0,-17:08,-17.133,Sagittarius,6.9,summer
+M19,NGC 6273,,Globular cluster,17:03,255.75,-26:16,-26.267,Ophiuchus,6.8,summer
+M20,NGC 6514,Trifid Nebula,Nebula,18:02,270.5,-23:02,-23.033,Sagittarius,6.3,summer
+M21,NGC 6531,,Open cluster,18:05,271.25,-22:30,-22.5,Sagittarius,5.9,summer
+M22,NGC 6656,,Globular cluster,18:36,279.0,-23:54,-23.9,Sagittarius,5.1,summer
+M23,NGC 6494,,Open cluster,17:57,269.25,-19:01,-19.017,Sagittarius,5.5,summer
+M24,IC 4715,Sagittarius Star Cloud,Cluster & nebula,18:17,274.25,-18:25,-18.417,Sagittarius,4.6,summer
+M25,IC 4725,,Open cluster,18:32,278.0,-19:15,-19.25,Sagittarius,4.6,summer
+M26,NGC 6694,,Open cluster,18:45,281.25,-09:24,-9.4,Scutum,8.0,summer
+M27,NGC 6853,Dumbbell Nebula,Planetary nebula,19:59,299.75,+22:43,22.717,Vulpecula,7.3,summer
+M28,NGC 6626,,Globular cluster,18:25,276.25,-24:52,-24.867,Sagittarius,6.9,summer
+M29,NGC 6913,,Open cluster,20:24,306.0,+38:32,38.533,Cygnus,6.6,summer
+M30,NGC 7099,,Globular cluster,21:40,325.0,-23:11,-23.183,Capricornus,7.5,autumn
+M31,NGC 224,Andromeda Galaxy,Galaxy,00:43,10.75,+41:16,41.267,Andromeda,3.4,autumn
+M32,NGC 221,,Galaxy,00:43,10.75,+40:52,40.867,Andromeda,8.1,autumn
+M33,NGC 598,Triangulum Galaxy,Galaxy,01:34,23.5,+30:39,30.65,Triangulum,5.7,autumn
+M34,NGC 1039,,Open cluster,02:42,40.5,+42:47,42.783,Perseus,5.2,winter
+M35,NGC 2168,,Open cluster,06:09,92.25,+24:20,24.333,Gemini,5.1,winter
+M36,NGC 1960,,Open cluster,05:36,84.0,+34:08,34.133,Auriga,6.0,winter
+M37,NGC 2099,,Open cluster,05:52,88.0,+32:33,32.55,Auriga,5.6,winter
+M38,NGC 1912,,Open cluster,05:29,82.25,+35:50,35.833,Auriga,6.4,winter
+M39,NGC 7092,,Open cluster,21:32,323.0,+48:26,48.433,Cygnus,4.6,autumn
+M40,WNC 4,,Double star,12:22,185.5,+58:05,58.083,Ursa Major,8.4,spring
+M41,NGC 2287,,Open cluster,06:47,101.75,-20:44,-20.733,Canis Major,4.5,winter
+M42,NGC 1976,Orion Nebula,Nebula,05:35,83.75,-05:27,-5.45,Orion,4.0,winter
+M43,NGC 1982,De Mairan's Nebula,Nebula,05:36,84.0,-05:16,-5.267,Orion,9.0,winter
+M44,NGC 2632,Beehive Cluster,Open cluster,08:40,130.0,+19:59,19.983,Cancer,3.1,winter
+M45,,Pleiades,Open cluster,03:47,56.75,+24:07,24.117,Taurus,1.6,winter
+M46,NGC 2437,,Open cluster,07:42,115.5,-14:49,-14.817,Puppis,6.1,winter
+M47,NGC 2422,,Open cluster,07:37,114.25,-14:30,-14.5,Puppis,4.4,winter
+M48,NGC 2548,,Open cluster,08:14,123.5,-05:48,-5.8,Hydra,5.8,winter
+M49,NGC 4472,,Galaxy,12:30,187.5,+08:00,8.0,Virgo,8.4,spring
+M50,NGC 2323,,Open cluster,07:03,105.75,-08:20,-8.333,Monoceros,5.9,winter
+M51,NGC 5194,Whirlpool Galaxy,Galaxy,13:30,202.5,+47:12,47.2,Canes Venatici,8.4,spring
+M52,NGC 7654,,Open cluster,23:24,351.0,+61:35,61.583,Cassiopeia,6.9,autumn
+M53,NGC 5024,,Globular cluster,13:13,198.25,+18:10,18.167,Coma Berenices,7.7,spring
+M54,NGC 6715,,Globular cluster,18:55,283.75,-30:29,-30.483,Sagittarius,7.7,summer
+M55,NGC 6809,,Globular cluster,19:40,295.0,-30:58,-30.967,Sagittarius,6.3,summer
+M56,NGC 6779,,Globular cluster,19:17,289.25,+30:11,30.183,Lyra,8.3,summer
+M57,NGC 6720,Ring Nebula,Planetary nebula,18:54,283.5,+33:02,33.033,Lyra,8.8,summer
+M58,NGC 4579,,Galaxy,12:38,189.5,+11:49,11.817,Virgo,9.7,spring
+M59,NGC 4621,,Galaxy,12:42,190.5,+11:39,11.65,Virgo,9.6,spring
+M60,NGC 4649,,Galaxy,12:44,191.0,+11:33,11.55,Virgo,8.8,spring
+M61,NGC 4303,,Galaxy,12:22,185.5,+04:28,4.467,Virgo,9.7,spring
+M62,NGC 6266,,Globular cluster,17:01,255.25,-30:07,-30.117,Scorpius,6.5,summer
+M63,NGC 5055,Sunflower Galaxy,Galaxy,13:16,199.0,+42:02,42.033,Canes Venatici,8.6,spring
+M64,NGC 4826,Black Eye Galaxy,Galaxy,12:57,194.25,+21:41,21.683,Coma Berenices,8.5,spring
+M65,NGC 3623,,Galaxy,11:19,169.75,+13:05,13.083,Leo,9.3,spring
+M66,NGC 3627,,Galaxy,11:20,170.0,+12:59,12.983,Leo,8.9,spring
+M67,NGC 2682,,Open cluster,08:50,132.5,+11:49,11.817,Cancer,6.1,winter
+M68,NGC 4590,,Globular cluster,12:39,189.75,-26:45,-26.75,Hydra,7.8,spring
+M69,NGC 6637,,Globular cluster,18:31,277.75,-32:21,-32.35,Sagittarius,7.6,summer
+M70,NGC 6681,,Globular cluster,18:43,280.75,-32:18,-32.3,Sagittarius,7.9,summer
+M71,NGC 6838,,Globular cluster,19:54,298.5,+18:47,18.783,Sagitta,8.2,summer
+M72,NGC 6981,,Globular cluster,20:54,313.5,-12:32,-12.533,Aquarius,9.3,summer
+M73,NGC 6994,,Open cluster,20:59,314.75,-12:38,-12.633,Aquarius,9.0,summer
+M74,NGC 628,,Galaxy,01:37,24.25,+15:47,15.783,Pisces,9.4,autumn
+M75,NGC 6864,,Globular cluster,20:06,301.5,-21:55,-21.917,Sagittarius,8.5,summer
+M76,NGC 650,Little Dumbbell,Planetary nebula,01:42,25.5,+51:34,51.567,Perseus,10.1,autumn
+M77,NGC 1068,,Galaxy,02:43,40.75,-00:01,-0.017,Cetus,8.9,winter
+M78,NGC 2068,,Nebula,05:47,86.75,+00:03,0.05,Orion,8.3,winter
+M79,NGC 1904,,Globular cluster,05:25,81.25,-24:31,-24.517,Lepus,7.7,winter
+M80,NGC 6093,,Globular cluster,16:17,244.25,-22:59,-22.983,Scorpius,7.3,summer
+M81,NGC 3031,Bode's Galaxy,Galaxy,09:56,149.0,+69:04,69.067,Ursa Major,6.9,spring
+M82,NGC 3034,Cigar Galaxy,Galaxy,09:56,149.0,+69:41,69.683,Ursa Major,8.4,spring
+M83,NGC 5236,,Galaxy,13:37,204.25,-29:52,-29.867,Hydra,7.6,spring
+M84,NGC 4374,,Galaxy,12:25,186.25,+12:53,12.883,Virgo,9.1,spring
+M85,NGC 4382,,Galaxy,12:25,186.25,+18:11,18.183,Coma Berenices,9.1,spring
+M86,NGC 4406,,Galaxy,12:26,186.5,+12:57,12.95,Virgo,8.9,spring
+M87,NGC 4486,Virgo A,Galaxy,12:31,187.75,+12:23,12.383,Virgo,8.6,spring
+M88,NGC 4501,,Galaxy,12:32,188.0,+14:25,14.417,Coma Berenices,9.6,spring
+M89,NGC 4552,,Galaxy,12:36,189.0,+12:33,12.55,Virgo,9.8,spring
+M90,NGC 4569,,Galaxy,12:37,189.25,+13:10,13.167,Virgo,9.5,spring
+M91,NGC 4548,,Galaxy,12:35,188.75,+14:30,14.5,Coma Berenices,10.2,spring
+M92,NGC 6341,,Globular cluster,17:17,259.25,+43:08,43.133,Hercules,6.4,summer
+M93,NGC 2447,,Open cluster,07:45,116.25,-23:52,-23.867,Puppis,6.0,winter
+M94,NGC 4736,,Galaxy,12:51,192.75,+41:07,41.117,Canes Venatici,8.2,spring
+M95,NGC 3351,,Galaxy,10:44,161.0,+11:42,11.7,Leo,9.7,spring
+M96,NGC 3368,,Galaxy,10:47,161.75,+11:49,11.817,Leo,9.2,spring
+M97,NGC 3587,Owl Nebula,Planetary nebula,11:15,168.75,+55:01,55.017,Ursa Major,9.9,spring
+M98,NGC 4192,,Galaxy,12:14,183.5,+14:54,14.9,Coma Berenices,10.1,spring
+M99,NGC 4254,,Galaxy,12:19,184.75,+14:25,14.417,Coma Berenices,9.9,spring
+M100,NGC 4321,,Galaxy,12:23,185.75,+15:49,15.817,Coma Berenices,9.3,spring
+M101,NGC 5457,Pinwheel Galaxy,Galaxy,14:03,210.75,+54:21,54.35,Ursa Major,7.9,spring
+M102,NGC 5866,,Galaxy,15:07,226.75,+55:46,55.767,Draco,9.9,summer
+M103,NGC 581,,Open cluster,01:33,23.25,+60:42,60.7,Cassiopeia,7.4,autumn
+M104,NGC 4594,Sombrero Galaxy,Galaxy,12:40,190.0,-11:37,-11.617,Virgo,8.0,spring
+M105,NGC 3379,,Galaxy,10:48,162.0,+12:35,12.583,Leo,9.3,spring
+M106,NGC 4258,,Galaxy,12:19,184.75,+47:18,47.3,Canes Venatici,8.4,spring
+M107,NGC 6171,,Globular cluster,16:33,248.25,-13:03,-13.05,Ophiuchus,7.9,summer
+M108,NGC 3556,,Galaxy,11:12,168.0,+55:40,55.667,Ursa Major,10.0,spring
+M109,NGC 3992,,Galaxy,11:58,179.5,+53:23,53.383,Ursa Major,9.8,spring
+M110,NGC 205,,Galaxy,00:40,10.0,+41:41,41.683,Andromeda,8.5,autumn

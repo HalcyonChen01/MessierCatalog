@@ -1,1 +1,50 @@
-# MessierCatalog
+Project: Messier Objects 3D Animation
+Chen Peiyu 25040162g
+CREATIVE PROGRAMMING FOR DESIGNERS AND ARTISTS SD5913_20251_A
+Assignment 2 - Data visualization
+
+**Introduction**
+
+This project displays a 3D animation of the Messier catalog of celestial objects. It utilizes astronomical data such as Right Ascension (RA), Declination (Dec), Magnitude, and Object Type to accurately visualize the positions of galaxies, nebulae, and star clusters on a celestial sphere. The animation progresses through the first six months of the year (January to June), highlighting objects based on their best viewing Month. The celestial sphere rotates to provide a dynamic 360-degree view.
+
+**Key Features:**
+
+*   **3D Celestial Sphere:** Objects are plotted in a 3D space representing their astronomical coordinates (Right Ascension and Declination).
+*   **Monthly Progression:** The animation automatically cycles from January to June, showing different sets of objects for each month.
+*   **Dynamic Object Naming:** The names of currently visible objects are displayed on the screen.
+*   **Interactive Controls:** The animation window includes controls to pause, play, and navigate between months.
+*   **Visual Legend:** A legend in the bottom-left corner identifies the different types of celestial objects by their corresponding symbols and colors.
+*   **GIF Export:** The animation is automatically saved as a high-quality GIF file named "messier_monthly_24fps.gif".
+
+**Project Files**
+
+*   **Scraper Script:** `src/messier_scraper.py`
+    *   This script fetches Messier catalog data from an online source and saves it as `messier_catalog_complete.csv`. Run this script to update the data.
+*   **Animation Script:** `src/messier_season_animation.py`
+    *   This is the main script that reads the CSV data and generates the 3D animation.
+
+**Setup and Requirements**
+
+To run this animation, you will need a Python environment with specific packages installed.
+
+**1. Environment / Plugins:**
+
+*   **Python 3.6 or newer.**
+*   **Required Python Packages:**
+    *   pandas
+    *   numpy
+    *   matplotlib
+
+**2. Installation:**
+
+You can install all the necessary packages by running the following command in your terminal from the `Halcyon_MessierCatalog` directory:
+
+`pip install -r requirements.txt`
+
+**3. How to Run the Animation:**
+
+Once the packages are installed, execute the main animation script from your terminal:
+
+`python src/messier_season_animation.py`
+
+This will launch the animation window and save the output as a GIF in the project's root directory.
